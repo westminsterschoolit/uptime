@@ -13,6 +13,8 @@ sites:
     url: https://www.oldwestminster.org.uk/
   - name: Westminster Platform
     url: https://westminsterplatform.org.uk/
+  - name: USA foundation
+    url: https://westminsterschoolit.github.io/usa-foundation/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
