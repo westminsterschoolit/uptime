@@ -4,19 +4,19 @@
     "url": "https://www.westminster.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.westminster.org.uk.ico",
     "slug": "westminster-great-school",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 880,
-    "timeDay": 826,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 848,
+    "timeDay": 778,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2025-04-05": 6
+      "2025-04-05": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.westminsterunder.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.westminsterunder.org.uk.ico",
     "slug": "westminster-under-school",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1562,
-    "timeDay": 1257,
-    "timeWeek": 1562,
-    "timeMonth": 1562,
-    "timeYear": 1562,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1502,
+    "timeDay": 1186,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {
-      "2025-04-05": 6
+      "2025-04-05": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.westminsterschoolenterprise.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.westminsterschoolenterprise.org.uk.ico",
     "slug": "westminster-enterprise",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1369,
-    "timeDay": 1701,
-    "timeWeek": 1369,
-    "timeMonth": 1369,
-    "timeYear": 1369,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1301,
+    "timeDay": 1552,
+    "timeWeek": 1301,
+    "timeMonth": 1301,
+    "timeYear": 1301,
     "dailyMinutesDown": {
-      "2025-04-05": 6
+      "2025-04-05": 0
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.oldwestminster.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oldwestminster.org.uk.ico",
     "slug": "old-westminster",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1252,
-    "timeDay": 1107,
-    "timeWeek": 1252,
-    "timeMonth": 1252,
-    "timeYear": 1252,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1204,
+    "timeDay": 1040,
+    "timeWeek": 1204,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-04-05": 6
+      "2025-04-05": 0
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 1254,
+      "2025-04-05": 1377,
       "2025-04-04": 1440,
       "2025-04-03": 743
     }
