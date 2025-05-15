@@ -1,7 +1,7 @@
 url: https://www.westminster.org.uk
-status: up
-code: 200
-responseTime: 1180
-lastUpdated: 2025-05-14T23:07:10.753Z
+status: down
+code: 403
+responseTime: 337
+lastUpdated: 2025-05-15T05:12:14.623Z
 startTime: 2025-04-03T11:36:41.913Z
 generator: Upptime <https://github.com/upptime/upptime>
