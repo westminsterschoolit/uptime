@@ -53,9 +53,9 @@
     "url": "https://www.westminsterschoolenterprise.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.westminsterschoolenterprise.org.uk.ico",
     "slug": "westminster-enterprise",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -65,6 +65,7 @@
     "timeMonth": 1514,
     "timeYear": 1226,
     "dailyMinutesDown": {
+      "2025-06-17": 0,
       "2025-05-15": 38,
       "2025-05-10": 20,
       "2025-04-19": 17,
@@ -112,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 124,
+      "2025-06-17": 499,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
