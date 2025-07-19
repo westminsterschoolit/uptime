@@ -11,7 +11,7 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.84%",
     "time": 1914,
-    "timeDay": 4374,
+    "timeDay": 2906,
     "timeWeek": 2278,
     "timeMonth": 2892,
     "timeYear": 1914,
@@ -38,7 +38,7 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.86%",
     "time": 2536,
-    "timeDay": 8973,
+    "timeDay": 9153,
     "timeWeek": 4669,
     "timeMonth": 3646,
     "timeYear": 2536,
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-19": 127,
+      "2025-07-19": 641,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -232,8 +232,8 @@
   },
   {
     "name": "USA foundation",
-    "url": "https://westminsterschoolit.github.io/usa-foundation/",
-    "icon": "https://icons.duckduckgo.com/ip3/westminsterschoolit.github.io.ico",
+    "url": "https://westminsterschoolfoundationus.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/westminsterschoolfoundationus.org.ico",
     "slug": "usa-foundation",
     "status": "up",
     "uptime": "100.00%",
@@ -246,6 +246,24 @@
     "timeWeek": 335,
     "timeMonth": 320,
     "timeYear": 287,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Cantandum",
+    "url": "https://cantandum.westminster.org.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/cantandum.westminster.org.uk.ico",
+    "slug": "cantandum",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
