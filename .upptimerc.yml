@@ -14,7 +14,9 @@ sites:
   - name: Westminster Platform
     url: https://www.westminsterplatform.org.uk/
   - name: USA foundation
-    url: https://westminsterschoolit.github.io/usa-foundation/
+    url: https://westminsterschoolfoundationus.org/
+  - name: Cantandum
+    url: https://cantandum.westminster.org.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
