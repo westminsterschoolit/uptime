@@ -1,7 +1,7 @@
 url: https://www.oldwestminster.org.uk/
-status: up
-code: 200
-responseTime: 2176
-lastUpdated: 2025-09-05T05:32:02.441Z
+status: down
+code: 500
+responseTime: 11574
+lastUpdated: 2025-09-05T06:50:12.965Z
 startTime: 2025-04-03T11:36:47.261Z
 generator: Upptime <https://github.com/upptime/upptime>
