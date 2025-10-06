@@ -1,7 +1,7 @@
 url: https://www.westminsterunder.org.uk/
-status: up
-code: 200
-responseTime: 1413
-lastUpdated: 2025-10-05T23:05:43.729Z
+status: down
+code: 500
+responseTime: 8230
+lastUpdated: 2025-10-06T10:46:47.136Z
 startTime: 2025-04-03T11:36:43.329Z
 generator: Upptime <https://github.com/upptime/upptime>
